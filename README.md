@@ -11,4 +11,7 @@ A most simple version we could came up with for the luftdaten sensor based aroun
 - optional 10K Ohm resistor
 
 ### Info
-Designed with EagleCAD
+- Designed with EagleCAD
+- Based on luftdaten sensor
+- Inspiration from https://github.com/Naesstrom/airrohr-PCB
+- Gerber files made for seeedstudio
