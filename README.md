@@ -2,6 +2,9 @@
 
 A most simple version we could came up with for the luftdaten sensor.
 
+<a href="https://www.seeedstudio.com/-g-1130877"><img src="https://statics3.seeedstudio.com/assets/img/fusion/gallery_page/gallery_bedge.png"></a>
+(!! be carefull PCB Qty is still 250 !!)
+
 ![assembled pcb](https://github.com/CivicLabsBelgium/influencair-pcb/raw/master/assets/assembly_collage.jpg)
 
 ### BOM (bill of material)
