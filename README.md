@@ -1,6 +1,6 @@
 # influencair-pcb
 
-A most simple version we could came up with for the luftdaten sensor.
+A most simple version we could came up with for the Sensor.Community sensor.
 
 <a href="https://www.seeedstudio.com/-g-1130877"><img src="https://statics3.seeedstudio.com/assets/img/fusion/gallery_page/gallery_bedge.png"></a>
 (!! be carefull PCB Qty is still 250 !!)
@@ -20,6 +20,6 @@ A most simple version we could came up with for the luftdaten sensor.
 
 ### Info
 - Designed with EagleCAD
-- Based on [luftdaten](https://luftdaten.info) sensor
+- Based on [Sensor.Community](https://sensor.community) sensor
 - Inspiration from https://github.com/Naesstrom/airrohr-PCB
 - [Gerber files](https://github.com/CivicLabsBelgium/influencair-pcb/raw/master/influencair_2018-05-10.zip) made for seeedstudio fusion service. **Standard pcb settings** except color white, refects more heat then a black one.
